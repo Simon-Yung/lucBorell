@@ -1,0 +1,7 @@
+
+_site
+node_modules
+docs
+gallery/**/larges/*.jpg
+gallery/**/thumbnails/*.jpg
+gallery/**/products/*.jpg

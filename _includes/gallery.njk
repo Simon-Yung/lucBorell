@@ -1,0 +1,52 @@
+---
+title: "gallery"
+description: ""
+permalink: "gallery/{{page.fileSlug}}/"
+tags: chapters
+buy_text: "Tirage d'Art / 1/10 / pcagalleryart"
+request_text: "Request"
+---
+<!doctype html>
+<html style="scroll-behavior: smooth;">
+	<head>
+		 <link href="https://fonts.googleapis.com/css2?family=Mukta:wght@200;300;400;500&display=swap" rel="stylesheet"> 
+		<link rel="stylesheet" href="{{website.url}}/includes/assets/css/styles.css">
+		<script src="{{website.url}}/includes/assets/js/modal_gallery.js" defer> </script>
+		<!-- <script src="{{website.url}}/includes/assets/js/masonry_resize.js" defer> </script> -->
+		
+		<!--overides-->
+		{%- if cover %}
+		<meta property="og:image" content="{{website.completeUrl}}/gallery/{{page.fileSlug}}/larges/{{ cover }}">
+		{%- elif products[0] %}
+		<meta property="og:image" content="{{website.completeUrl}}/gallery/{{page.fileSlug}}/larges/{{product[0]}}">
+		{%- else %}
+		<meta property="og:image" content="{{website.completeUrl}}/{{ collections[page.fileSlug][0] | replace('/thumbnails','/larges') }}">
+		{%- endif %}
+		
+		{% include "components/metadata.njk" %}
+	</head>
+	<body class="gallery_page">
+
+		{% include "components/header.njk" %}
+
+		<div class="gallery_intro_box">
+			{{ content | safe  }}
+			<!-- <a class="gallery_button" href="#gallery"><p>Gallery</p><div class="arrow_container"><div class="arrow"></div></div></a> -->
+		</div>
+
+		<div id="gallery" class="gallery" data-scaling-ratio="{{image_scaling}}" data-buy-text="{{buy_text}}" data-request-text="{{request_text}}">
+			{%- set totalNumberOfImages = ( products | length ) + ( collections[page.fileSlug] | length ) %}
+			{%- set offset = products | length %}
+		{%- for product in products %}
+			<img class ="preview" src="{{website.url}}/gallery/{{page.fileSlug}}/products/{{product.image}}" id="{{loop.index}}" onclick="openModalGallery( {{loop.index}} )" 
+			data-pagination="{{loop.index}}/{{totalNumberOfImages}}" data-external-link="{{product.link}}" >
+		{%- endfor %}
+		{%- for image in collections[page.fileSlug] %}
+			<img class ="preview" src="{{website.url}}/{{image}}" id="{{loop.index + offset}}" onclick="openModalGallery( {{loop.index + offset}} )" 
+			data-pagination="{{loop.index + offset}}/{{totalNumberOfImages}}">
+		{%- endfor %}
+		</div>
+		{% include "components/footer.njk" %}
+		{% include "components/modal.njk" %}
+	</body>
+</html>
