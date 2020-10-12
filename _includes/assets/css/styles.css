@@ -3,7 +3,7 @@
 body{
 	margin: 0;
 	padding: 0;
-	background-color: #f4f4f4;
+	background-color: #f4f1df; /*#f4f4f4;*/
 	display: flex; flex-wrap: nowrap; flex-direction: column; justify-content: center; align-items: center;
 }
 
@@ -72,6 +72,36 @@ body{
 }
 
 /*----------------------components----------------------*/
+
+/*----------------------header----------------------*/
+
+@keyframes fadein {
+	0% {opacity: 0;}
+	100% {opacity: 0.6;}
+}
+@keyframes fadeout {
+	0% {opacity: 0.6;}
+	100% {opacity: 0;}
+}
+.fade_in{
+	animation: 0.6s ease-in-out 0s 1 normal forwards running fadein;
+}
+.fade_out{
+	animation: 0.6s ease-in-out 0s 1 normal forwards running fadeout;
+}
+.background{
+	position: fixed;
+	object-fit: cover;
+	filter: blur(05px);
+	opacity: 0;
+	top: -5%;
+	left: -5%;
+	min-width: 110%;
+	z-index: -1;
+	height: 110%;
+	animation: none;
+}
+
 /*----------------------header----------------------*/
 .header{
 	width: 100%;
@@ -394,14 +424,15 @@ body{
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	background-color: #f4f1df;
+	background-color: #f4f1df;/*#f4f1df;*/
 }
+
 @keyframes title_animation {
 	0% {
 		height: 0rem;
 	}
 	100% {
-		height: 4.5rem;
+		height: 8.5rem;
 	}
 }
 
@@ -413,6 +444,7 @@ body{
 	border-bottom: 3px solid #333333;
 	transition: all 0.2s ease-in-out;
 	animation: 1s cubic-bezier(0.68, -0.6, 0.32, 1.6) 0s 1 title_animation;
+	height: 8.5rem;
 }
 .landing_title:hover{
 	font: 300 4rem/1.0 'Mukta', sans-serif;
@@ -430,7 +462,7 @@ body{
 	flex-wrap: nowrap;
 	justify-content: flex-start;
 	align-items: center;
-	background-color:#f4f1df;
+	background-color:#f4f1df;/*#f4f1df;*/
 }
 .chapter_box {
 	margin: auto;
@@ -462,7 +494,7 @@ body{
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	background-color: #f4f1df;
+	background-color: #f4f1df;/*#f4f1df;*/
 }
 .gallery_intro_box{
 	padding: 60px;

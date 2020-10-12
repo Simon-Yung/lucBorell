@@ -10,13 +10,19 @@
 		{% include "components/metadata.njk" %}
 	</head>
 	<body class="home_page"> 
+		<!--<img class="background" src="{{website.url}}/includes/assets/images/HORIZON.jpg">-->
 		{% include "components/header.njk" %}
 
 		{{ content | safe }}
 
 		<nav class="chapter_box">
 		{%- for chapter in collections.chapters | reverse %}
-			<a href="{{ website.url }}{{ chapter.url }}" class="chapter">{{ chapter.data.title | upper }}</a>
+			<img id="{{ loop.index }}" class="background" src="{{website.url}}{{ chapter.url }}/icon.jpg">
+			<a href="{{ website.url }}{{ chapter.url }}" class="chapter"
+			onmouseover="document.getElementById('{{ loop.index }}').style.animation = '0.5s ease-in-out 0s 1 normal forwards running fadein';" 
+			onmouseout="document.getElementById('{{ loop.index }}').style.animation = '0.5s ease-in-out 0s 1 normal forwards running fadeout'"> 
+				{{ chapter.data.title | upper }}
+			</a>
 		{%- endfor %}
 		</nav>
 

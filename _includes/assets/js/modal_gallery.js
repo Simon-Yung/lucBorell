@@ -67,11 +67,13 @@ function openModalGallery(imageIDNumber) {
 
 	//update the buy button
 	if ( img.dataset.externalLink == undefined){
-		let truncateAt = img.src.lastIndexOf('humbnails/');
-		let sliced = img.src.slice(truncateAt + 10 , -4);
-		purchaseLink.href = "mailto:jcpratt@orange.fr?subject=Print%20Request%20:%20" + sliced + "&body=Quote%20Request%20for%20:%20" + sliced ;
-		purchaseLinkText.innerHTML = gallery.dataset.requestText;
+		// let truncateAt = img.src.lastIndexOf('humbnails/');
+		// let sliced = img.src.slice(truncateAt + 10 , -4);
+		// purchaseLink.href = "mailto:jcpratt@orange.fr?subject=Print%20Request%20:%20" + sliced + "&body=Quote%20Request%20for%20:%20" + sliced ;
+		// purchaseLinkText.innerHTML = gallery.dataset.requestText;
+		purchaseLink.style.display = "none";
 	} else{
+		purchaseLink.style.display = "flex";
 		purchaseLink.href = img.dataset.externalLink;
 		purchaseLinkText.innerHTML = gallery.dataset.buyText;
 	}
