@@ -368,7 +368,7 @@ body{
 	top: 100%;
 	left: 100%;
 	display: none;
-	background-color: #333333;
+	background-color: #ffffff;
 	flex-direction: column;
 	flex-wrap: nowrap;
 }
@@ -384,7 +384,7 @@ body{
 }
 #contextual_menu span:hover{
 	color: #000000;
-	background-color: #eeeeee;
+	background-color: #cccccc;
 }
 
 /*----------------------landing page----------------------*/
