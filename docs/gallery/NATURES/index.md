@@ -12,24 +12,18 @@ products:
 ---
 **NATURES**
 
-...Haec dum oriens diu perferret, quorum crebris excursibus vastabantur confines limitibus terrae Gallorum.  
-Ob haec et huius modi multa, quae cernebantur in paucis, omnibus timeri sunt coepta.  
-et ne tot malis dissimulatis paulatimque serpentibus acervi ....  
+Elle doit toujours être ce que nous suggère notre regard et l'odeur qui subtilement s'installent en proposant quelques nouvelles perspectives de vie et d'humeur....
 
 --------
 
 **NATURES**
 
-...Haec dum oriens diu perferret, quorum crebris excursibus vastabantur confines limitibus terrae Gallorum.  
-Ob haec et huius modi multa, quae cernebantur in paucis, omnibus timeri sunt coepta.  
-et ne tot malis dissimulatis paulatimque serpentibus acervi ....  
+It must always be what our gaze and smell subtly suggest us, offering some new perspectives of life and mood....
 
 --------
 
-**	naturaleza**
+**naturaleza**
 
-...Haec dum oriens diu perferret, quorum crebris excursibus vastabantur confines limitibus terrae Gallorum.  
-Ob haec et huius modi multa, quae cernebantur in paucis, omnibus timeri sunt coepta.  
-et ne tot malis dissimulatis paulatimque serpentibus acervi ....  
+Siempre debe ser lo que nuestra mirada y nuestro olor sutilmente nos sugieren al ofrecernos algunas nuevas perspectivas de vida y humor.... 
 
 --------

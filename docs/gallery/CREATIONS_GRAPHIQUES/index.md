@@ -12,24 +12,18 @@ products:
 ---
 **CRÉATIONS GRAPHIQUES**
 
-...Haec dum oriens diu perferret, quorum crebris excursibus vastabantur confines limitibus terrae Gallorum.  
-Ob haec et huius modi multa, quae cernebantur in paucis, omnibus timeri sunt coepta.  
-et ne tot malis dissimulatis paulatimque serpentibus acervi ....  
+Quand la couleur et la synthèse sont là pour symboliser avec ironie ou esthétique un fait, un moment ; c'est cela également les créations graphiques de LucBorell
 
 --------
 
 **GRAPHIC CREATIONS**
 
-...Haec dum oriens diu perferret, quorum crebris excursibus vastabantur confines limitibus terrae Gallorum.  
-Ob haec et huius modi multa, quae cernebantur in paucis, omnibus timeri sunt coepta.  
-et ne tot malis dissimulatis paulatimque serpentibus acervi ....  
+When color and synthesis are there to symbolize with irony or aesthetic a fact, a moment; this also is what LucBorell's graphic creations are all about.
 
 --------
 
 **CREACIONES GRAFICAS**
 
-...Haec dum oriens diu perferret, quorum crebris excursibus vastabantur confines limitibus terrae Gallorum.  
-Ob haec et huius modi multa, quae cernebantur in paucis, omnibus timeri sunt coepta.  
-et ne tot malis dissimulatis paulatimque serpentibus acervi ....  
+Cuando el color y la síntesis están ahí para simbolizar con la ironía o la estética un hecho, un momento; asi es también lo que las creaciones gráficas de LucBorell son.
 
 --------

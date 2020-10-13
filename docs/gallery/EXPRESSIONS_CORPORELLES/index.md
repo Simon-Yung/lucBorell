@@ -12,24 +12,18 @@ products:
 ---
 **MOUVEMENTS CORPORELS**
 
-...Haec dum oriens diu perferret, quorum crebris excursibus vastabantur confines limitibus terrae Gallorum.  
-Ob haec et huius modi multa, quae cernebantur in paucis, omnibus timeri sunt coepta.  
-et ne tot malis dissimulatis paulatimque serpentibus acervi ....  
+Le corps est toujours l'expression d'une culture intérieure. Il suggère, propose, dispose ; quoiqu'il en soit, il est maître en la matière. Silhouette, Peau, et Âme sont matières premières à l’existence.
 
 --------
 
 **CORPOREAL MOVEMENTS**
 
-...Haec dum oriens diu perferret, quorum crebris excursibus vastabantur confines limitibus terrae Gallorum.  
-Ob haec et huius modi multa, quae cernebantur in paucis, omnibus timeri sunt coepta.  
-et ne tot malis dissimulatis paulatimque serpentibus acervi ....  
+The body is always the expression of an inner culture. It suggests, proposes, disposes; in any case, it masters the substance. Silhouette, Skin, and Soul are the raw materials of existence.
 
 --------
 
 **MOVIMIENTOS DE LOS CUERPOS**
 
-...Haec dum oriens diu perferret, quorum crebris excursibus vastabantur confines limitibus terrae Gallorum.  
-Ob haec et huius modi multa, quae cernebantur in paucis, omnibus timeri sunt coepta.  
-et ne tot malis dissimulatis paulatimque serpentibus acervi ....  
+El cuerpo es siempre la expresión de una cultura interior. Sugiere, propone, dispone; en todo caso, es un maestro en la materia. La silueta, la piel y el alma son las materias primas de la existencia.
 
 --------

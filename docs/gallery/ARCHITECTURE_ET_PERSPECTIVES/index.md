@@ -12,24 +12,18 @@ products:
 ---
 **ARCHITECTURE ET PERSPECTIVES**
 
-...Haec dum oriens diu perferret, quorum crebris excursibus vastabantur confines limitibus terrae Gallorum.  
-Ob haec et huius modi multa, quae cernebantur in paucis, omnibus timeri sunt coepta.  
-et ne tot malis dissimulatis paulatimque serpentibus acervi ....  
+Sans autres commentaires que ceux dispensés par le travail, les nouvelles perspectives et expressions de l’Artiste digital.
 
 --------
 
 **ARCHITECTURE AND PERSPECTIVES**
 
-...Haec dum oriens diu perferret, quorum crebris excursibus vastabantur confines limitibus terrae Gallorum.  
-Ob haec et huius modi multa, quae cernebantur in paucis, omnibus timeri sunt coepta.  
-et ne tot malis dissimulatis paulatimque serpentibus acervi ....  
+With no other words than those expressed by the work, the new perspectives and expressions of the Digital Artist.
 
 --------
 
 **ARQUITECTURA Y PERSPECTIVAS**
 
-...Haec dum oriens diu perferret, quorum crebris excursibus vastabantur confines limitibus terrae Gallorum.  
-Ob haec et huius modi multa, quae cernebantur in paucis, omnibus timeri sunt coepta.  
-et ne tot malis dissimulatis paulatimque serpentibus acervi ....  
+Sin más dialoguo que los aportados por la obra, las nuevas perspectivas y expresiones del Artista Digital.
 
 --------

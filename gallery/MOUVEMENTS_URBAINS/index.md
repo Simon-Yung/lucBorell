@@ -12,24 +12,18 @@ products:
 ---
 **MOUVEMENTS URBAINS**
 
-...Haec dum oriens diu perferret, quorum crebris excursibus vastabantur confines limitibus terrae Gallorum.  
-Ob haec et huius modi multa, quae cernebantur in paucis, omnibus timeri sunt coepta.  
-et ne tot malis dissimulatis paulatimque serpentibus acervi ....  
+Les Mouvements Urbains sont autant d'aspects sans cesse renouvelés, beau, étonnants, parfois violents. Ils sont autant de visages, d’expressions qui suggèrent, illustrent, enfin Vivent.
 
 --------
 
 **URBAN MOVEMENTS**
 
-...Haec dum oriens diu perferret, quorum crebris excursibus vastabantur confines limitibus terrae Gallorum.  
-Ob haec et huius modi multa, quae cernebantur in paucis, omnibus timeri sunt coepta.  
-et ne tot malis dissimulatis paulatimque serpentibus acervi ....  
+The Urban Movements are many constantly renewed aspects, beautiful, surprising, sometimes violent. They are as many faces, expressions which suggest, illustrate, finally Live.
 
 --------
 
 **MOVIMIENTOS URBANOS**
 
-...Haec dum oriens diu perferret, quorum crebris excursibus vastabantur confines limitibus terrae Gallorum.  
-Ob haec et huius modi multa, quae cernebantur in paucis, omnibus timeri sunt coepta.  
-et ne tot malis dissimulatis paulatimque serpentibus acervi ....  
+Los Movimientos Urbanos son aspectos constantemente renovados, hermosos, sorprendentes, a veces violentos. Son tantas caras, expresiones que sugieren, ilustran, finalmente viven.
 
 --------
