@@ -17,7 +17,7 @@
 
 		<nav class="chapter_box">
 		{%- for chapter in collections.chapters | reverse %}
-			<img id="{{ loop.index }}" class="background" src="{{website.url}}{{ chapter.url }}/icon.jpg">
+			<img id="{{ loop.index }}" class="fade_background" src="{{website.url}}{{ chapter.url }}/icon.jpg">
 			<a href="{{ website.url }}{{ chapter.url }}" class="chapter"
 			onmouseover="document.getElementById('{{ loop.index }}').style.animation = '0.5s ease-in-out 0s 1 normal forwards running fadein';" 
 			onmouseout="document.getElementById('{{ loop.index }}').style.animation = '0.5s ease-in-out 0s 1 normal forwards running fadeout'"> 
