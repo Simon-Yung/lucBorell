@@ -1,5 +1,5 @@
 ---
-title: " Luc Borell"
+title: "ARTISTE DIGITAL"
 layout: text.njk
 lang: fr
 image: ""

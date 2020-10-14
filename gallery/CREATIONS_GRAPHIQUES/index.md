@@ -2,8 +2,8 @@
 layout: "gallery.njk"
 date: "2020-01-26"
 title: "CRÉATIONS GRAPHIQUES"
-description: ""
-cover : ""
+description: "Quand la couleur et la synthèse sont là pour symboliser avec ironie ou esthétique un fait, un moment ; c'est cela également les créations graphiques de LucBorell"
+cover : "NO_DIRECTION_HOME.jpg"
 image_scaling: "130" #en pixel, la taille verticale minimum des images presentes dans la gallery
 products:
 #   les images produits son dans le dossier "products"

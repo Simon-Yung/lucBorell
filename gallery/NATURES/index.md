@@ -2,8 +2,8 @@
 layout: "gallery.njk"
 date: "2020-01-20"
 title: "NATURES"
-description: ""
-cover : ""
+description: "Elle doit toujours être ce que nous suggère notre regard et l'odeur qui subtilement s'installe en proposant quelques nouvelles perspectives de vie et d'humeur...."
+cover : "EVE.jpg"
 image_scaling: "130" #en pixel, la taille verticale minimum des images presentes dans la gallery
 products:
 #   les images produits son dans le dossier "products"

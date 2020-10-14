@@ -2,8 +2,8 @@
 layout: "gallery.njk"
 date: "2020-01-26"
 title: "MOUVEMENTS URBAINS"
-description: ""
-cover : ""
+description: "Les Mouvements Urbains sont autant d'aspects sans cesse renouvelés, beaux, étonnants, parfois violents. Ils sont autant de visages, d’expressions qui suggèrent, illustrent, enfin Vivent."
+cover : "BLACKBLOCK1.jpg"
 image_scaling: "130" #en pixel, la taille verticale minimum des images presentes dans la gallery
 products:
 #   les images produits son dans le dossier "products"

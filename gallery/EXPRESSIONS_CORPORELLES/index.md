@@ -2,8 +2,8 @@
 layout: "gallery.njk"
 date: "2020-01-26"
 title: "EXPRESSIONS CORPORELLES"
-description: ""
-cover : ""
+description: "Le corps est toujours l'expression d'une culture intérieure. Il suggère, propose, dispose ; quoiqu'il en soit, il est maître en la matière. Silhouette, Peau, et Âme sont matières premières à l’existence."
+cover : "ADORATION.jpg"
 image_scaling: "130" #en pixel, la taille verticale minimum des images presentes dans la gallery
 products:
 #   les images produits son dans le dossier "products"

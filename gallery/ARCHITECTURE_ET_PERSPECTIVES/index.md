@@ -2,8 +2,8 @@
 layout: "gallery.njk"
 date: "2020-01-26"
 title: "ARCHITECTURE ET PERSPECTIVES"
-description: ""
-cover : ""
+description: "Sans autres commentaires que ceux dispensés par le travail, les nouvelles perspectives et expressions de l’Artiste digital."
+cover : "PONTAGE.jpg"
 image_scaling: "130" #en pixel, la taille verticale minimum des images presentes dans la gallery
 products:
 #   les images produits son dans le dossier "products"
