@@ -21,8 +21,8 @@ Je m'efforce constamment d'améliorer mes techniques, d'élargir mes compétence
 
 Ces dernières années, les nouvelles technologies et avec elles les smartphones nous ont offert un nouvel univers artistique à la fois simple, immédiat et intuitif.  
 
-Je fais partie de cette techno-génération de réseaux et de numérique. J'en ai fait ma signature!  
-Je travaille mes photographies sur un ordinateur avec un logiciel spécifique, afin de leur donner une réalité augmentée.  
+Je fais partie de cette techno-génération des réseaux et du numérique. J'en ai fait ma signature!
+Je travaille mes photographies sur ordinateur avec des logiciels spécifiques, afin de leur donner une réalité augmentée.  
 Certaines sont esthétiques, d'autres plus sociologiques, d'autres encore figuratives.   
 
 Ce faisant, je donne naissance à des œuvres hybrides, vibrantes et composites à la fois très personnelles et significatives.  
@@ -43,8 +43,8 @@ I am constantly striving to improve my techniques, expand my skills and find new
 
 In recent years, new technologies and with them smartphones have offered us a new artistic universe that is simple, immediate and intuitive.  
 
-I am part of this techno-generation of networks and digital technology. I made it my signature!  
-I work on my photographs on a computer with specific software, in order to give them an augmented reality.  
+I am part of this techno-generation of networks and digital technology. I have made it my signature!  
+I work on my photographs on computer with specific softwares, in order to give them an augmented reality.  
 Some are aesthetic, others more sociological, others still figurative.  
 
 In doing so, I give birth to hybrid, vibrant and composite works that are both very personal and meaningful.  
@@ -65,8 +65,8 @@ Me esfuerzo constantemente por mejorar mis técnicas, ampliar mis habilidades y 
 
 En los últimos años, las nuevas tecnologías y con ellas los smartphones nos han ofrecido un nuevo universo artístico que es simple, inmediato e intuitivo.  
 
-Soy parte de esta tecno-generación de redes y digital. ¡Lo he hecho mi firma!  
-Trabajo mis fotografías en una computadora con un software específico, para darles una realidad aumentada.  
+Soy parte de esta tecno-generación de redes y del digital. ¡Lo he hecho mi firma!  
+Trabajo mis fotografías en computadora con softwares específicos, para darles una realidad aumentada.  
 Algunos son estéticos, otros más sociológicos, otros aún figurativos.   
 
 Al hacerlo, doy a luz a obras híbridas, vibrantes y compuestas que son a la vez muy personales y significativas.  
