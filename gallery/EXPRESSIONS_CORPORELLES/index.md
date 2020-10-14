@@ -7,8 +7,16 @@ cover : ""
 image_scaling: "130" #en pixel, la taille verticale minimum des images presentes dans la gallery
 products:
 #   les images produits son dans le dossier "products"
-#   - image: nom_de_l_image.jpg
-#     link: https://www.pcagallery.com/example
+   - image: CALLIPYGES.jpg
+     link: https://www.pcagalleryart.com/product-page/callipyges-limited-edition-1-3
+   - image: CONTACT_RAPPROCHE.jpg
+     link: https://www.pcagalleryart.com/product-page/contact-rapproch%C3%A9-limited-edition-1-3
+   - image: DA_VINCI.jpg
+     link: https://www.pcagalleryart.com/product-page/da-vinci-limited-edition-1-3
+   - image: DESIRS_lucborell.jpg
+     link: https://www.pcagalleryart.com/product-page/d%C3%A9sirs-limited-edition-1-3
+   - image: MYSTERE__APPARENT.jpg
+     link: https://www.pcagalleryart.com/product-page/myst%C3%A8re-apparent-limited-edition-1-3
 ---
 **EXPRESSIONS CORPORELLES**
 

@@ -76,11 +76,21 @@ products:
    - image: PAYSAGE_URBAIN.jpg
      link: https://www.pcagalleryart.com/product-page/paysage-urbain-limited-edition-1-3
    - image: PILIERS.jpg
-     link: https://www.
+     link: https://www.pcagalleryart.com/product-page/piliers-limited-edition-1-3
    - image: PROMENADE.jpg
-     link: https://www.
+     link: https://www.pcagalleryart.com/product-page/promenade-limited-edition-1-3
    - image: SCARIFICATIONS.jpg
-     link: https://www.
+     link: https://www.pcagalleryart.com/product-page/copie-de-si-loin-encore-limited-edition-1-3
+   - image: SI_LOIN_ENCORE.jpg
+     link: https://www.pcagalleryart.com/product-page/si-loin-encore-limited-edition-1-3
+   - image: TERRES_DE_CONFLITS.jpg
+     link: https://www.pcagalleryart.com/product-page/terres-de-conflit-limited-edition-1-3
+   - image: TRAVERSEE.jpg
+     link: https://www.pcagalleryart.com/product-page/transversales-limited-edition-1-3
+   - image: VOILE_DE_SOI.jpg
+     link: https://www.pcagalleryart.com/product-page/voile-de-soi-limited-edition-1-3
+   - image: VOYEUR.jpg
+     link: https://www.pcagalleryart.com/product-page/voyeur-limited-edition-1-3
 ---
 **CRÉATIONS GRAPHIQUES**
 
