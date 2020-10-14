@@ -5,7 +5,7 @@
 <!doctype html>
 <html style="scroll-behavior: smooth;">
 	<head>
-		 <link href="https://fonts.googleapis.com/css2?family=Mukta:wght@200;300;400;500&display=swap" rel="stylesheet"> 
+		 <link href="https://fonts.googleapis.com/css2?family=Mukta:wght@200;300;400;500;600;700&display=swap" rel="stylesheet"> 
 		<link rel="stylesheet" href="{{website.url}}/includes/assets/css/styles.css">
 		{% include "components/metadata.njk" %}
 	</head>
@@ -13,7 +13,9 @@
 		{% include "components/header.njk" %}
 
 		<div class="text_box">
-		{{ content | safe }}
+			<div class="text_background">
+				{{ content | safe }}
+			</div>
 		</div>
 
 		{% include "components/footer.njk" %}

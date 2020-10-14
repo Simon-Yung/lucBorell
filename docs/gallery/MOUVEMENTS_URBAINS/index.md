@@ -12,7 +12,7 @@ products:
 ---
 **MOUVEMENTS URBAINS**
 
-Les Mouvements Urbains sont autant d'aspects sans cesse renouvelés, beau, étonnants, parfois violents. Ils sont autant de visages, d’expressions qui suggèrent, illustrent, enfin Vivent.
+Les Mouvements Urbains sont autant d'aspects sans cesse renouvelés, beaux, étonnants, parfois violents. Ils sont autant de visages, d’expressions qui suggèrent, illustrent, enfin Vivent.
 
 --------
 

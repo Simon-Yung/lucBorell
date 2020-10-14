@@ -1,7 +1,7 @@
 ﻿---
 layout: "gallery.njk"
 date: "2020-01-26"
-title: "EXPRESSIONS CORPORELS"
+title: "EXPRESSIONS CORPORELLES"
 description: ""
 cover : ""
 image_scaling: "130" #en pixel, la taille verticale minimum des images presentes dans la gallery
@@ -10,7 +10,7 @@ products:
 #   - image: nom_de_l_image.jpg
 #     link: https://www.pcagallery.com/example
 ---
-**EXPRESSIONS CORPORELS**
+**EXPRESSIONS CORPORELLES**
 
 Le corps est toujours l'expression d'une culture intérieure. Il suggère, propose, dispose ; quoiqu'il en soit, il est maître en la matière. Silhouette, Peau, et Âme sont matières premières à l’existence.
 

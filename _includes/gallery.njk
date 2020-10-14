@@ -9,7 +9,7 @@ request_text: "Request"
 <!doctype html>
 <html style="scroll-behavior: smooth;">
 	<head>
-		 <link href="https://fonts.googleapis.com/css2?family=Mukta:wght@200;300;400;500&display=swap" rel="stylesheet"> 
+		 <link href="https://fonts.googleapis.com/css2?family=Mukta:wght@200;300;400;500;600;700&display=swap" rel="stylesheet"> 
 		<link rel="stylesheet" href="{{website.url}}/includes/assets/css/styles.css">
 		<script src="{{website.url}}/includes/assets/js/modal_gallery.js" defer> </script>
 		<!-- <script src="{{website.url}}/includes/assets/js/masonry_resize.js" defer> </script> -->
@@ -30,8 +30,9 @@ request_text: "Request"
 		{% include "components/header.njk" %}
 
 		<div class="gallery_intro_box">
-			{{ content | safe  }}
-			<!-- <a class="gallery_button" href="#gallery"><p>Gallery</p><div class="arrow_container"><div class="arrow"></div></div></a> -->
+			<div class="text_background">
+				{{ content | safe }}
+			</div>
 		</div>
 
 		<div id="gallery" class="gallery" data-scaling-ratio="{{image_scaling}}" data-buy-text="{{buy_text}}" data-request-text="{{request_text}}">

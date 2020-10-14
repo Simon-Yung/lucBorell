@@ -1,6 +1,6 @@
 ---
 title: " Luc Borell"
-layout: blank.njk
+layout: text.njk
 lang: fr
 image: ""
 description: ""
@@ -9,67 +9,65 @@ description: ""
 	<img class="banner"  src="" >
 </div> -->
 
-<div class="text_box" style="padding-top:30px">
+<div class="text_box">
 
-**lucborell** - Artiste Visuel Contemporain
+Mon Souhait, ma Passion!  
 
-Les smartphones suggèrent depuis quelques années un territoire d'expression simple, immédiat, intuitif et qualitatif.
+En tant que professionnel de l'art et du design, passionné et soucieux du détail, j'ai toujours aimé, de manière créative, aborder des projets uniques et complexes.  
 
-**lucborell** s'inscrit totalement dans cette génération ; il en a fait sa signature !
+Je m'efforce constamment d'améliorer mes techniques, d'élargir mes compétences et de trouver de nouvelles opportunités pour grandir en tant qu'artiste.  
 
-Ses photographies, déclinées, travaillées, revisitées, rédigées par quelques outils et logiciels numériques, sont directes, évidentes et demeurent spontanées....  
-Elle possèdent une réalité augmentée qui nous impacte.  
-Certaines sont esthétiques ; d'autres sont plus engagées ou définitivement clivantes.
+Ces dernières années, les nouvelles technologies et avec elles les smartphones nous ont offert un nouvel univers artistique à la fois simple, immédiat et intuitif.  
 
-Ce faisant, Il fait naître des œuvres hybrides, composites, vibrantes d'expressivités. 
+Je fais partie de cette techno-génération de réseaux et de numérique. J'en ai fait ma signature!  
+Je travaille mes photographies sur un ordinateur avec un logiciel spécifique, afin de leur donner une réalité augmentée.  
+Certaines sont esthétiques, d'autres plus sociologiques, d'autres encore figuratives.   
 
-Ingénieur culturel, lucborell navigue entre photographie et peinture, il prend résolument position pour les arts numériques et digitaux, demeurant néanmoins très sensible et cultivé, toujours attentif à l'Histoire de l'Art et à ses acteurs
-
-lucborell a été directeur d'un café-théâtre pendant plusieurs années avant de prendre la décision de s'engager dans une démarche artistique. Diplômé en architecture d'intérieur et design, Il est aussi spécialiste en patrimoine et jardins.
-
-Ses inspirations et passions vont d'Egon Schiele à Pierre Soulages et, de Puvis de Chavannes à Andy Warhol.
+Ce faisant, je donne naissance à des œuvres hybrides, vibrantes et composites à la fois très personnelles et significatives.  
 
 &nbsp;
 
-----------
-
-**lucborell** - Contemporary Visual Artist
-
-Smartphones have been suggesting for a few years a territory of simple, immediate, intuitive and qualitative expression.
-
-**lucborell** is fully part of this generation; he made it his signature!
-
-His photographs, declined, worked, revisited, written by some digital tools and software, are direct, obvious and remain spontaneous ...  
-They have an augmented reality that impacts us.  
-Some are aesthetic; others are more committed or definitely divisive.
-
-In doing so, He gives birth to hybrid, composite, vibrant works of expressiveness.
-
-Cultural engineer, lucborell navigates between photography and painting, he resolutely takes a stand for the digital and digital arts, remaining nevertheless very sensitive and cultivated, always attentive to the History of Art and its actors
-
-lucborell was director of a café-theater for several years before making the decision to embark on an artistic approach. A graduate in interior architecture and design, He is also a specialist in patrimony and gardens.
-
-His inspirations and passions range from Egon Schiele to Pierre Soulages and from Puvis de Chavannes to Andy Warhol.
+---------------------
 
 &nbsp;
 
-----------
+My Wish, my Passion !  
 
-**lucborell** - Contemporary Visual Artist
+As a passionate and detail-oriented art and design professional, I have always enjoyed, in a creative way, approaching unique and complex projects.  
 
-Smartphones have been suggesting for a few years a territory of simple, immediate, intuitive and qualitative expression.
+I am constantly striving to improve my techniques, expand my skills and find new opportunities to grow as an artist.  
 
-**lucborell** is fully part of this generation; he made it his signature!
+&nbsp;
 
-His photographs, declined, worked, revisited, written by some digital tools and software, are direct, obvious and remain spontaneous ...  
-They have an augmented reality that impacts us.  
-Some are aesthetic; others are more committed or definitely divisive.
+In recent years, new technologies and with them smartphones have offered us a new artistic universe that is simple, immediate and intuitive.  
 
-In doing so, He gives birth to hybrid, composite, vibrant works of expressiveness.
+I am part of this techno-generation of networks and digital technology. I made it my signature!  
+I work on my photographs on a computer with specific software, in order to give them an augmented reality.  
+Some are aesthetic, others more sociological, others still figurative.  
 
-Cultural engineer, lucborell navigates between photography and painting, he resolutely takes a stand for the digital and digital arts, remaining nevertheless very sensitive and cultivated, always attentive to the History of Art and its actors
+In doing so, I give birth to hybrid, vibrant and composite works that are both very personal and meaningful.  
 
-lucborell was director of a café-theater for several years before making the decision to embark on an artistic approach. A graduate in interior architecture and design, He is also a specialist in patrimony and gardens.
+&nbsp;
 
-His inspirations and passions range from Egon Schiele to Pierre Soulages and from Puvis de Chavannes to Andy Warhol.
+---------------------
+
+&nbsp;
+
+My Wish, my Passion !  
+
+As a passionate and detail-oriented art and design professional, I have always enjoyed, in a creative way, approaching unique and complex projects.  
+
+I am constantly striving to improve my techniques, expand my skills and find new opportunities to grow as an artist.  
+
+&nbsp;
+
+In recent years, new technologies and with them smartphones have offered us a new artistic universe that is simple, immediate and intuitive.  
+
+I am part of this techno-generation of networks and digital technology. I made it my signature!  
+I work on my photographs on a computer with specific software, in order to give them an augmented reality.  
+Some are aesthetic, others more sociological, others still figurative.  
+
+In doing so, I give birth to hybrid, vibrant and composite works that are both very personal and meaningful.  
+
+
 </div>

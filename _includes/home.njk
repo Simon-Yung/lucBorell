@@ -5,7 +5,7 @@
 <!doctype html>
 <html style="scroll-behavior: smooth;">
 	<head>
-		 <link href="https://fonts.googleapis.com/css2?family=Mukta:wght@200;300;400;500&display=swap" rel="stylesheet"> 
+		 <link href="https://fonts.googleapis.com/css2?family=Mukta:wght@200;300;400;500;600;700&display=swap" rel="stylesheet"> 
 		<link rel="stylesheet" href="{{website.url}}/includes/assets/css/styles.css">
 		{% include "components/metadata.njk" %}
 	</head>
@@ -16,6 +16,9 @@
 		{{ content | safe }}
 
 		<nav class="chapter_box">
+			<!--<a href="{{ website.url }}/bio" class="big_chapter">
+				LUCBORELL ARTISTE DIGITAL
+			</a>-->
 		{%- for chapter in collections.chapters | reverse %}
 			<img id="{{ loop.index }}" class="fade_background" src="{{website.url}}{{ chapter.url }}/icon.jpg">
 			<a href="{{ website.url }}{{ chapter.url }}" class="chapter"

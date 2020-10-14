@@ -12,7 +12,7 @@ products:
 ---
 **NATURES**
 
-Elle doit toujours être ce que nous suggère notre regard et l'odeur qui subtilement s'installent en proposant quelques nouvelles perspectives de vie et d'humeur....
+Elle doit toujours être ce que nous suggère notre regard et l'odeur qui subtilement s'installe en proposant quelques nouvelles perspectives de vie et d'humeur....
 
 --------
 
@@ -24,6 +24,6 @@ It must always be what our gaze and smell subtly suggest us, offering some new p
 
 **naturaleza**
 
-Siempre debe ser lo que nuestra mirada y nuestro olor sutilmente nos sugieren al ofrecernos algunas nuevas perspectivas de vida y humor.... 
+Siempre debe ser lo que nuestra mirada y nuestro olor sutilmente nos sugiere al ofrecernos algunas nuevas perspectivas de vida y humor.... 
 
 --------
