@@ -17,6 +17,8 @@ En tant que professionnel de l'art et du design, passionné et soucieux du déta
 
 Je m'efforce constamment d'améliorer mes techniques, d'élargir mes compétences et de trouver de nouvelles opportunités pour grandir en tant qu'artiste.  
 
+&nbsp;
+
 Ces dernières années, les nouvelles technologies et avec elles les smartphones nous ont offert un nouvel univers artistique à la fois simple, immédiat et intuitif.  
 
 Je fais partie de cette techno-génération de réseaux et de numérique. J'en ai fait ma signature!  
@@ -53,21 +55,20 @@ In doing so, I give birth to hybrid, vibrant and composite works that are both v
 
 &nbsp;
 
-My Wish, my Passion !  
+¡Mi deseo, mi pasión!  
 
-As a passionate and detail-oriented art and design professional, I have always enjoyed, in a creative way, approaching unique and complex projects.  
+Como profesional del arte y el diseño, apasionado y orientado a los detalles, siempre me ha gustado abordar creativamente proyectos únicos y complejos.  
 
-I am constantly striving to improve my techniques, expand my skills and find new opportunities to grow as an artist.  
+Me esfuerzo constantemente por mejorar mis técnicas, ampliar mis habilidades y encontrar nuevas oportunidades para crecer como artista.  
 
 &nbsp;
 
-In recent years, new technologies and with them smartphones have offered us a new artistic universe that is simple, immediate and intuitive.  
+En los últimos años, las nuevas tecnologías y con ellas los smartphones nos han ofrecido un nuevo universo artístico que es simple, inmediato e intuitivo.  
 
-I am part of this techno-generation of networks and digital technology. I made it my signature!  
-I work on my photographs on a computer with specific software, in order to give them an augmented reality.  
-Some are aesthetic, others more sociological, others still figurative.  
+Soy parte de esta tecno-generación de redes y digital. ¡Lo he hecho mi firma!  
+Trabajo mis fotografías en una computadora con un software específico, para darles una realidad aumentada.  
+Algunos son estéticos, otros más sociológicos, otros aún figurativos.   
 
-In doing so, I give birth to hybrid, vibrant and composite works that are both very personal and meaningful.  
-
+Al hacerlo, doy a luz a obras híbridas, vibrantes y compuestas que son a la vez muy personales y significativas.  
 
 </div>
