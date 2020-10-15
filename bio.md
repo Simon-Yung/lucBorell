@@ -5,11 +5,6 @@ lang: fr
 image: ""
 description: ""
 ---
-<!-- <div class="banner_container">
-	<img class="banner"  src="" >
-</div> -->
-
-<div class="text_box">
 
 Mon Souhait, ma Passion!  
 
@@ -70,5 +65,3 @@ Trabajo mis fotografías en computadora con softwares específicos, para darles 
 Algunos son estéticos, otros más sociológicos, otros aún figurativos.   
 
 Al hacerlo, doy a luz a obras híbridas, vibrantes y compuestas que son a la vez muy personales y significativas.  
-
-</div>
